@@ -1,12 +1,12 @@
 # Health-and-Fitness-Programs
 1. Calories_burned_combinations.py
-  This code is a program that calculates various fitness-related measurements based on user input.
+    This code is a program that calculates various fitness-related measurements based on user input.
 
-  The first section of the code defines a dictionary of calories burned per minute for different types of exercise. It prompts the user to input the number of each exercise they did, their body weight, and the amount of time they spent doing each exercise, then calculates the total number of calories burned and prints the result.
+    The first section of the code defines a dictionary of calories burned per minute for different types of exercise. It prompts the user to input the number of each exercise they did, their body weight, and the amount of time they spent doing each exercise, then calculates the total number of calories burned and prints the result.
 
-  The second section defines a function to calculate calories burned while running, prompts the user to input their weight, distance, and duration of their run, calculates the calories burned, and prints the result.
+    The second section defines a function to calculate calories burned while running, prompts the user to input their weight, distance, and duration of their run, calculates the calories burned, and prints the result.
 
-  The third section defines variables for the target time frame and prompts the user to input their target body fat percentage, current weight, age, sex, height, waist, hip, and neck circumference. It calculates the current body fat percentage using the U.S. Navy method and the total number of calories needed to maintain current weight using the Harris-Benedict equation. It then determines the number of calories that need to be burned per week to reach the target body fat percentage in the target time frame, calculates the number of calories that need to be burned per day to reach the target body fat percentage in the target time frame, and prints the result.
+    The third section defines variables for the target time frame and prompts the user to input their target body fat percentage, current weight, age, sex, height, waist, hip, and neck circumference. It calculates the current body fat percentage using the U.S. Navy method and the total number of calories needed to maintain current weight using the Harris-Benedict equation. It then determines the number of calories that need to be burned per week to reach the target body fat percentage in the target time frame, calculates the number of calories that need to be burned per day to reach the target body fat percentage in the target time frame, and prints the result.
 
 2. Calories_burned_upgrade.py
     This code calculates the total number of calories burned by the user during a workout session that includes exercises like push-ups, sit-ups, pull-ups, squats, and planks. It also calculates the number of calories burned by running and adds it to the total calories burned during the workout session.
